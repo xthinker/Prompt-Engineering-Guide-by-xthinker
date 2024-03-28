@@ -2,6 +2,12 @@
 
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs). Researchers use prompt engineering to improve the capacity of LLMs on a wide range of common and complex tasks such as question answering and arithmetic reasoning. Developers use prompt engineering to design robust and effective prompting techniques that interface with LLMs and other tools.
 
+[GPT] 프롬프트 엔지니어링은 언어 모델(LMs)을 다양한 응용 프로그램 및 연구 주제에 효율적으로 사용하기 위해 프롬프트를 개발하고 최적화하는 상대적으로 새로운 분야입니다. 프롬프트 엔지니어링 기술은 대규모 언어 모델(LLMs)의 능력과 한계를 더 잘 이해하는 데 도움이 됩니다. 연구자들은 프롬프트 엔지니어링을 사용하여 질문 응답 및 산술 추론과 같은 다양한 일반적이고 복잡한 작업에 대한 LLMs의 능력을 향상시킵니다. 개발자들은 LLMs 및 기타 도구와의 인터페이스를 위한 견고하고 효과적인 프롬프팅 기술을 설계하기 위해 프롬프트 엔지니어링을 사용합니다.
+
+[Gemini Advanced] Prompt engineering은 언어 모델(LM)을 다양한 애플리케이션과 연구 주제에 효율적으로 사용할 수 있도록 프롬프트를 개발하고 최적화하는 비교적 새로운 분야입니다. 프롬프트 엔지니어링 기술은 대규모 언어모델(LLM)의 기능과 한계를 더 잘 이해하는 데 도움이 됩니다. 연구자들은 프롬프트 엔지니어링을 사용하여 질의응답 및 산술적 추론과 같은 광범위한 일반 및 복잡한 작업에서 LLM의 역량을 향상시킵니다. 개발자들은 프롬프트 엔지니어링을 사용하여 LLM 및 기타 도구와 인터페이스 하는 강력하고 효과적인 프롬프트 기술을 설계합니다.
+
+[Claude 3 Opus] 프롬프트 엔지니어링은 다양한 애플리케이션과 연구 주제에 대해 언어 모델(LM)을 효율적으로 사용하기 위한 프롬프트를 개발하고 최적화하는 비교적 새로운 분야입니다. 프롬프트 엔지니어링 기술은 대규모 언어 모델(LLM)의 기능과 한계를 더 잘 이해하는 데 도움이 됩니다. 연구자들은 프롬프트 엔지니어링을 사용하여 질문 답변 및 산술 추론과 같은 다양한 일반적이고 복잡한 작업에 대한 LLM의 능력을 향상시킵니다. 개발자들은 프롬프트 엔지니어링을 사용하여 LLM 및 기타 도구와 인터페이스하는 강력하고 효과적인 프롬프트 기술을 설계합니다.
+
 Motivated by the high interest in developing with LLMs, we have created this new prompt engineering guide that contains all the latest papers, learning guides, lectures, references, and tools related to prompt engineering for LLMs.
 
 🌐 [Prompt Engineering Guide (Web Version)](https://www.promptingguide.ai/)
@@ -13,6 +19,43 @@ We've partnered with Maven to deliver the following live cohort-based courses on
 - [Prompt Engineering for LLMs ](https://maven.com/dair-ai/prompt-engineering-llms) (Advanced) - learn advanced prompt engineering techniques to build complex use cases and applications with LLMs.
 
 Happy Prompting!
+
+[ChatGPT 4.0]
+LLMs(대규모 언어 모델) 개발에 대한 높은 관심에 힘입어, 우리는 LLMs를 위한 프롬프트 엔지니어링 관련 최신 논문, 학습 가이드, 강의, 참고 자료, 도구가 모두 포함된 새로운 프롬프트 엔지니어링 가이드를 만들었습니다.
+
+🌐 프롬프트 엔지니어링 가이드 (웹 버전)
+
+우리는 Maven과 파트너십을 맺고 프롬프트 엔지니어링에 대한 다음과 같은 실시간 집단 기반 과정을 제공합니다:
+
+LLMs for Everyone (초급) - 최신 프롬프트 엔지니어링 기술을 배우고 실제 사례에 효과적으로 적용하는 방법을 배웁니다.
+
+Prompt Engineering for LLMs (고급) - LLMs를 사용한 복잡한 사례와 응용 프로그램을 구축하기 위한 고급 프롬프트 엔지니어링 기술을 배웁니다.
+
+즐거운 프롬프팅 되세요!
+
+[Gemini Advanced]
+
+
+LLM을 사용한 개발에 대한 높은 관심에 힘입어, 우리는 LLM을 위한 프롬프트 엔지니어링과 관련된 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 모두 포함하는 이 새로운 프롬프트 엔지니어링 가이드를 만들었습니다.
+
+🌐 프롬프트 엔지니어링 가이드 (웹 버전)
+
+우리는 Maven과 협력하여 프롬프트 엔지니어링에 대한 다음과 같은 실시간 코호트 기반 과정을 제공합니다:
+
+모두를 위한 LLM (초급) - 최신 프롬프트 엔지니어링 기법과 이를 실제 사용 사례에 효과적으로 적용하는 방법에 대해 알아보세요.
+LLM을 위한 프롬프트 엔지니어링 (고급) - LLM을 사용하여 복잡한 사용 사례와 애플리케이션을 구축하기 위한 고급 프롬프트 엔지니어링 기법을 배우세요.
+행복한 프롬프팅 되세요!
+
+[Claude 3 Opus] 
+LLM을 사용한 개발에 대한 높은 관심에 힘입어, 우리는 LLM을 위한 프롬프트 엔지니어링과 관련된 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 모두 포함하는 이 새로운 프롬프트 엔지니어링 가이드를 만들었습니다.
+
+🌐 프롬프트 엔지니어링 가이드 (웹 버전)
+
+우리는 Maven과 협력하여 프롬프트 엔지니어링에 대한 다음과 같은 실시간 코호트 기반 과정을 제공합니다:
+
+모두를 위한 LLM (초급) - 최신 프롬프트 엔지니어링 기법과 이를 실제 사용 사례에 효과적으로 적용하는 방법에 대해 알아보세요.
+LLM을 위한 프롬프트 엔지니어링 (고급) - LLM을 사용하여 복잡한 사용 사례와 애플리케이션을 구축하기 위한 고급 프롬프트 엔지니어링 기법을 배우세요.
+행복한 프롬프팅 되세요!
 
 ---
 ## Announcements / Updates
